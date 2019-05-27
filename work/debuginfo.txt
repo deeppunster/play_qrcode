@@ -1,0 +1,2 @@
+INFO:2019-05-27 01:58:38,711:GenPyQRCode:start_logging:119:Logging started: working directory is /Volumes/MBPC/Dvl/Python/PythonProjects/play_qrcode/work
+DEBUG:2019-05-27 01:58:38,711:GenPyQRCode:run_PyQRCode:68:Starting up PyQRCode
