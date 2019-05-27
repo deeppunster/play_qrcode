@@ -33,7 +33,7 @@ class GenPyQRCodeClass:
 
         :return:
         """
-        # Generate png QR code images of 40 sizes
+        # Generate png QR code images of various scales.
         for scale in range(1, 21):
             msg = (
                 f'Scale {scale} of a very long message that hopefully '

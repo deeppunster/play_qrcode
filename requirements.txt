@@ -1,0 +1,5 @@
+Pillow==6.0.0
+PyQRCode==1.2.1
+PyYAML==5.1
+qrcode==6.1
+six==1.12.0
