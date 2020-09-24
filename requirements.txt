@@ -1,5 +1,10 @@
-Pillow==6.0.0
-PyQRCode==1.2.1
-PyYAML==5.1
-qrcode==6.1
-six==1.12.0
+appdirs==1.4.4
+distlib==0.3.1
+filelock==3.0.12
+git-cola==3.8
+greenlet==0.4.17
+msgpack==1.0.0
+numpy==1.19.2
+six==1.15.0
+toml==0.10.1
+virtualenv==20.0.31
