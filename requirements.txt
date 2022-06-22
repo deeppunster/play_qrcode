@@ -4,7 +4,7 @@ filelock==3.0.12
 git-cola==3.8
 greenlet==0.4.17
 msgpack==1.0.0
-numpy==1.19.2
+numpy==1.22.0
 six==1.15.0
 toml==0.10.1
 virtualenv==20.0.31
