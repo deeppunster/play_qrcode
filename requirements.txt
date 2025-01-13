@@ -7,4 +7,4 @@ msgpack==1.0.0
 numpy==1.19.2
 six==1.15.0
 toml==0.10.1
-virtualenv==20.0.31
+virtualenv==20.26.6
